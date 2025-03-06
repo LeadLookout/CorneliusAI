@@ -1,0 +1,10 @@
+<interface>
+    <BoxLayout orientation="vertical">
+        <Label text="Welcome to Cornelius: Your Personalized Coding Assistant" font_size="20" size_hint_y=None height=50/>
+        <TextInput id="user_input" hint_text="Type your coding question here..." multiline=False size_hint_y=None height=40/>
+        <Button text="Ask" on_press="app.process_question()" size_hint_y=None height=50/>
+        <ScrollView>
+            <Label id="response_label" text="" size_hint_y=None height="self.size_hint_y" />
+        </ScrollView>
+    </BoxLayout>
+</interface>

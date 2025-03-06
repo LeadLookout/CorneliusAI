@@ -1,0 +1,4 @@
+This file is intended to log application events and errors. It will be created automatically, so it does not require any initial content. 
+
+# cornelius_log.txt
+# This file is intentionally left blank.

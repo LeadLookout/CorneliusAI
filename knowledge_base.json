@@ -1,0 +1,38 @@
+{
+  "knowledge_base": {
+    "topics": [
+      {
+        "id": 1,
+        "name": "Artificial Intelligence",
+        "description": "Study of intelligent agents and systems."
+      },
+      {
+        "id": 2,
+        "name": "Machine Learning",
+        "description": "Subfield of AI focused on algorithms that learn from data."
+      },
+      {
+        "id": 3,
+        "name": "Natural Language Processing",
+        "description": "Field of AI that enables computers to understand human language."
+      }
+    ],
+    "resources": [
+      {
+        "id": 1,
+        "title": "Introduction to AI",
+        "url": "https://example.com/intro-to-ai"
+      },
+      {
+        "id": 2,
+        "title": "Machine Learning Basics",
+        "url": "https://example.com/machine-learning-basics"
+      },
+      {
+        "id": 3,
+        "title": "NLP Techniques",
+        "url": "https://example.com/nlp-techniques"
+      }
+    ]
+  }
+}
